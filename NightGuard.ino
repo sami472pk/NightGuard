@@ -99,3 +99,8 @@ void loop() {
   }
   delay(50); // Short delay for keypad debounce
 }
+
+
+// 🔗 References:
+// - RTC synchronisation method and parts of code adapted from: https://arduino.stackexchange.com/questions/93880/
+// - Keypad logic inspired by: https://lastminuteengineers.com/arduino-keypad-tutorial/
