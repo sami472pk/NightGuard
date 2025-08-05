@@ -4,7 +4,7 @@ A motion-triggered buzzer system that activates only during night hours. It util
 
 ---
 
-## Features
+## 🔐 Features
 - Triggers alarm only between 10 PM and 5 AM
 - Requires a 6-digit password to deactivate
 - User can enter '#' to reset input
@@ -14,7 +14,7 @@ A motion-triggered buzzer system that activates only during night hours. It util
 
 ---
 
-## Components Used
+## 🧰 Components Used
 
 | Component              | Description                          |
 |------------------------|--------------------------------------|
@@ -27,11 +27,11 @@ A motion-triggered buzzer system that activates only during night hours. It util
 | BC547 NPN Transistor   | Drives the buzzer                    |
 | 1kΩ Resistor           | Base resistor for transistor         |
 | 2 x 18650 Li-ion Cells | Power source                         |
-| Slider Switch          | Manual ON/OFF control                |
+| Slide Switch           | Manual ON/OFF control                |
 
 ---
 
-## How It Works
+## ⚙️ How It Works
 1. Motion is detected at night → alarm activates.
 2. User enters password on keypad.
 3. If correct → alarm stops + cooldown begins.
@@ -39,20 +39,28 @@ A motion-triggered buzzer system that activates only during night hours. It util
 
 ---
 
-## PCB & Schematic
+## ⚡ PCB & Schematic
 - [Schematic](Schematic_NightGuard.png)
 - [PCB TopView Layout](images/NightGuard_PCB_TopView.png)
 - [PCB BottomView Layout](images/NightGuard_PCB_BottomView.png)
 
 ---
 
-## License
+## ⚖️ License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Author
+## 📖 References
+
+- [Arduino StackExchange DS3231 Example](https://arduino.stackexchange.com/questions/93880/)
+- [ElectroPeak 4x3 Keypad Guide](https://electropeak.com/learn/interfacing-4x3-membrane-matrix-keypad-with-arduino/?srsltid=AfmBOooRHeVJUqyHZ-mqR8IOUq6pQYcNW9BYw03qPwAUB0oAoLDEjowV)
+- 
+
+---
+
+## 👤 Author
 
 *Muhammad Sami*  
 Electronics & Embedded Systems Enthusiast | Electrical Engineering Undergrad
