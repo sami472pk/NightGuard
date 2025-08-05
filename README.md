@@ -21,7 +21,7 @@ A motion-triggered buzzer system that activates only during night hours. It util
 | Arduino Nano           | Microcontroller                      |
 | DS3231 RTC Module      | Real-Time Clock for time control     |
 | PIR Sensor (HC-SR501)  | Motion detection                     |
-| 1.3" OLED Display      | Time and Status Display              |
+| 1.3" OLED Display      | Displays time and status             |
 | Active Buzzer          | Audible alarm output                 |
 | 4x3 Matrix Keypad      | Password input                       |
 | BC547 NPN Transistor   | Drives the buzzer                    |
