@@ -56,7 +56,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [Arduino StackExchange DS3231 Example](https://arduino.stackexchange.com/questions/93880/)
 - [ElectroPeak 4x3 Keypad Guide](https://electropeak.com/learn/interfacing-4x3-membrane-matrix-keypad-with-arduino/?srsltid=AfmBOooRHeVJUqyHZ-mqR8IOUq6pQYcNW9BYw03qPwAUB0oAoLDEjowV)
-- 
 
 ---
 
