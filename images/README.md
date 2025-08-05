@@ -1,2 +1,2 @@
-![PCB Top View](./assets/NightGuard_PCB_TopView)
-![PCB Bottom View](./assets/NightGuard_PCB_BottomView)
+![PCB Top View](./images/NightGuard_PCB_TopView)
+![PCB Bottom View](./images/NightGuard_PCB_BottomView)
