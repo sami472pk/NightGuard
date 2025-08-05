@@ -32,8 +32,8 @@ A motion-triggered buzzer system that activates only during night hours. It util
 
 ## PCB & Schematic
 - [Schematic](schematic.pdf)
-- [PCB TopView Layout](images/NightGuard_PCB_TopView)
-- [PCB BottomView Layout](images/NightGuard_PCB_BottomView)
+- [PCB TopView Layout](images/NightGuard_PCB_TopView.png)
+- [PCB BottomView Layout](images/NightGuard_PCB_BottomView.png)
 
 ## Author
 Muhammad Sami (Electrical Engineering Student, 2025)
