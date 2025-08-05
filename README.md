@@ -1,4 +1,4 @@
-# Smart Night-Time Motion Alarm
+# NightGuard - Time-Controlled Motion Detection & Alarm System
 
 A motion-triggered buzzer system that activates only during night hours. It utilises a real-time clock (DS3231), a PIR motion sensor, a keypad password for deactivation, and an OLED display for feedback.
 
